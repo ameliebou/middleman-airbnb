@@ -1,0 +1,40 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Shanghai"
+  city_name: "Shanghai, China"
+  city_slug: "shanghai"
+  wifi: false
+  rating: 4
+  text: "Sebastien offers a charming place in the center of Shanghai. From his balcony, you can admire a wonderful view on Pudong."
+papillard:
+  name: "Boris's home"
+  description: "Lovely flat in Paris"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: true
+  rating: 3
+  text: "Enjoy a wonderful flat in Montmartre, where crazy night life awaits you!"
+monsieurpaillard:
+  name: "Machin's home"
+  description: "Adorable apartment in Piccadilly"
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  text: "After a nice 5 o'clock tea, don't forget to greet the queen and enjoy a stroll along the Thames."
+ameliebou:
+  name: "Amélie's home"
+  description: "Best place in the whole universe"
+  city_name: "Berlin, Germany"
+  city_slug: "berlin"
+  wifi: true
+  rating: 5
+  text: "The best city in Europe awaits you. Enjoy this amazing apartment in the center of Kreuzberg!"
+rebecasa:
+  name: "Rebecca's home"
+  description: "Cute flat"
+  city_name: "Rio, Brasil"
+  city_slug: "rio"
+  wifi: false
+  rating: 4
+  text: "Visit the beautiful Rio de Janeiro from this wonderful location close to the beach. Discover the incredible Brasilian lifestyle!"
